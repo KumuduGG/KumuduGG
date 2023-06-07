@@ -1,5 +1,5 @@
-<h3>- 👋 Hi, I’m @Kumudu_Gamlath </h3> <br><hr>
-<p style="text-align":"center">
+<h3>- 👋 Hi, I’m @KumuduGG </h3> <br><hr>
+<p style="text-align:center";>
 - 👀 I’m interested in programming languages like HTML & Python <br>
 - 🌱 I’m currently studying Advanced Level in Sri Lanka <br> 
 </p>
