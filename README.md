@@ -1,8 +1,8 @@
-<h3>- 👋 Hi, I’m @Kumudu_Gamlath </h3> <br>
+<h3>- 👋 Hi, I’m @Kumudu_Gamlath </h3> <br><hr>
 <p style="text-align:center">
-- 👀 I’m interested in HTML & Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in HTML & Python <br>
+- 🌱 I’m currently learning Python <br>
+- 💞️ I’m looking to collaborate on ... <br>
 - 📫 How to reach me ...
 </p>
 <!---
